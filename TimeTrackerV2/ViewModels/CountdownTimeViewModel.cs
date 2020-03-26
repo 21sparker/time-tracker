@@ -10,7 +10,7 @@ namespace TimeTrackerV2
 
         public CountdownTimeViewModel()
         {
-            Thing = "I'm from a different View Model";
+            
         }
     }
 }
